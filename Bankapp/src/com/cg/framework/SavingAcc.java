@@ -12,7 +12,7 @@ public abstract class SavingAcc extends BankAcc
     public void withdraw(float accBal)
 	{
 
-		System.out.println("Remaining balace after withdraw :"+accBal);
+		System.out.println("Remaining balance after withdraw :"+accBal);
 	}
 
     public boolean isSalary() {
