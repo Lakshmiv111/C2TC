@@ -1,0 +1,11 @@
+package Projectgqt;
+
+public abstract class assortment {
+    public abstract String getName();
+    public abstract double getPrice();
+    public abstract String getColor();
+    public abstract int getStockNum();
+    public abstract void setStockNum(int stockNum);
+    public abstract void showFeatures();
+}
+
