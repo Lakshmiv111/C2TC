@@ -5,6 +5,7 @@ public class Product extends assortment {
     protected double price;
     private String color;
     private int stockNum;
+
     public Product(String name, double price, String color, int stockNum) {
         this.name = name;
         this.price = price;
