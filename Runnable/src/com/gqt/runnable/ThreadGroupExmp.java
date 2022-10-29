@@ -1,3 +1,6 @@
+//THREAD-GROUP
+// A thread group is a collection of multiple threads sometimes 
+//it can even contain another thread group also
 package com.gqt.runnable;
 
 public class ThreadGroupExmp implements Runnable {
