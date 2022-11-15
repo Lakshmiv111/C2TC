@@ -19,9 +19,6 @@ public class Addtionof2matriceswith3rows3columnsStatically {
 		}    
 		System.out.println();//new line    
 		}    
-		} 
-		
-}
-		
+		}}  
 		
 		
