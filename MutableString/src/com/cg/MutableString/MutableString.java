@@ -4,7 +4,7 @@ public class MutableString {
 
 	public static void main(String[] args) {
 		
-		StringBuffer s1= new StringBuffer("Ramu");
+		StringBuffer s1= new StringBuffer("Rama");
 		StringBuffer s2= new StringBuffer("Rama");
 		StringBuffer s3= new StringBuffer("Rama");
 		StringBuffer s4= new StringBuffer("sita");
