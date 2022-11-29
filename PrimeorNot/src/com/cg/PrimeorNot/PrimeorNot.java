@@ -20,14 +20,11 @@ public class PrimeorNot {
 			else
 			{
 				System.out.println("Not Prime Number");
-			}
+			}		
 		}
 		else
 		{
 			System.out.println("Not Prime Number");
 		}
-		
-		
 	}
-
 }
