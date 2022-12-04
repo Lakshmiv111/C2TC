@@ -22,7 +22,7 @@ public class UpperTriangularMatrix {
 	            System.out.println("Matrix should be a square matrix");    
 	        }    
 	        else {    
-	            //Performs required operation to convert given matrix into upper triangular matrix    
+ //Performs required operation to convert given matrix into upper triangular matrix    
 	            System.out.println("Upper triangular matrix: ");    
 	            for(int i = 0; i < rows; i++){    
 	                for(int j = 0; j < cols; j++){    
